@@ -1,0 +1,101 @@
+h1 {
+  font-family: "Smooch", cursive;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+
+/* BODY */
+
+body {
+  font-family: sans-serif;
+}
+
+/* NAVIGATION */
+.main-nav {
+  text-align: center;
+  margin: 0px;
+  font-size: 18px;
+  background-color: black;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.main-nav a {
+  text-decoration: none;
+  color: white;
+  padding: 30px;
+}
+
+.main-nav a:hover {
+  color: yellow;
+}
+
+/* MAIN BACKGROUND  */
+
+main img {
+  background-color: rgb(41, 49, 50);
+  height: 100%;
+  width: 100%;
+}
+
+h2 {
+  background-color: black;
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
+
+p {
+  background-color: rgba(0, 246, 254, 0.329);
+  padding: 20px;
+  margin: 0px;
+  font-size: larger;
+  text-align: justify;
+}
+
+/* FOOTER */
+
+footer {
+  background-color: aqua;
+  padding: 10px;
+}
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+/* Youtube */
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
